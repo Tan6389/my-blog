@@ -1,6 +1,6 @@
 ---
 title: 什么是CDN加速？
-cover: https://cdn-fusion.imgcdn.store/i/2025/f77su9MMYdzyvkHB.jpg
+cover: https://free.picui.cn/free/2025/10/03/68df44926be82.jpg
 swiper_index: 10
 top_group_index: 10
 background: '#fff'
