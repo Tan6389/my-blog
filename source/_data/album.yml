@@ -47,8 +47,8 @@
     - date: 2022-10-24
       content: 中考前，来我将来的学校看看
       image:
-        - https://img.617171.xyz/file/AgACAgQAAyEGAAScPoQGAAMWaM7OR1dwoaEMQbddW8n5OUsKytgAAhrJMRtSUXFSKBXsxOdErogBAAMCAAN5AAM2BA.png
-        - https://i.miji.bid/2025/05/02/df6cf56ad0e4e7cdb13c44239c8d5435.jpeg
+        - #https://img.617171.xyz/file/AgACAgQAAyEGAAScPoQGAAMWaM7OR1dwoaEMQbddW8n5OUsKytgAAhrJMRtSUXFSKBXsxOdErogBAAMCAAN5AAM2BA.png
+        - #111
 
 - class_name: 跳转至QQ空间
   path_name: /qqzone
